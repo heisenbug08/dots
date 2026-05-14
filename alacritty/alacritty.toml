@@ -1,0 +1,13 @@
+colors.primary.background = "#1E2227"
+terminal.shell = "pwsh -nologo"
+
+[window]
+dimensions = { columns = 100, lines = 30}
+dynamic_title = false
+padding.x = 10
+opacity = 0.95
+
+[font]
+normal = { family = "JetBrainsMonoNL NF" }
+offset = { x = 1, y = 2 }
+
